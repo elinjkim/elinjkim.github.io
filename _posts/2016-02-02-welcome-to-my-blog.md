@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Elin's blog"
 description: ""
-category: Intro
+category: intro
 tags: []
 ---
 {% include JB/setup %}
