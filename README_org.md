@@ -1,7 +1,6 @@
-# What is this?
+# Jekyll-Bootstrap
 
-This is a repo that I use.
-I use this repo as personal blog for myself. 
+The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
 ## Usage
 
