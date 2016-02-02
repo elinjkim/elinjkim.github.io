@@ -11,7 +11,7 @@ highlighter: pygments
 title : Elin's Blog
 tagline: Site Tagline
 author :
-  name : Elin.J.Kim
+  name : Elin.J Kim
   email : elin.jieun.kim@gmail.com
   github : elinjkim
   twitter : none
@@ -81,35 +81,35 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
 
-  comments :
-    provider : facebook #FIXME
-    disqus :
-      short_name : abc  #FIXME
-    livefyre :
-      site_id : abc #FIXME
-    intensedebate :
-      account : abc #FIXME
-    facebook :
-      appid : abc   #FIXME
-      num_posts: 5
-      width: 640
-      colorscheme: light
+#  comments :
+#    provider : facebook #FIXME
+#    disqus :
+#      short_name : abc  #FIXME
+#    livefyre :
+#      site_id : abc #FIXME
+#    intensedebate :
+#      account : abc #FIXME
+#    facebook :
+#      appid : abc   #FIXME
+#      num_posts: 5
+#      width: 640
+#      colorscheme: light
 
-  #comments :
-  #  provider : disqus
-  #  disqus :
-  #    short_name : jekyllbootstrap
-  #  livefyre :
-  #    site_id : 123
-  #  intensedebate :
-  #    account : 123abc
-  #  facebook :
-  #    appid : 123
-  #    num_posts: 5
-  #    width: 580
-  #    colorscheme: light
-  #  duoshuo :
-  #    short_name : jekyllbootstrap
+  comments :
+    provider : disqus
+    disqus :
+      short_name : Elin
+    livefyre :
+      site_id : 123
+    intensedebate :
+      account : 123abc
+    facebook :
+      appid : 123
+      num_posts: 5
+      width: 580
+      colorscheme: light
+    #duoshuo :
+    #  short_name : Elin
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
