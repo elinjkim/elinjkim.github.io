@@ -290,8 +290,7 @@ User pages는 master branch로만 적용해야하므로 간편하다. origin 원
 모든 기초 작업이 끝났다.  
 나는 댓글과 분석 부분은 그냥 사용하도록 두었다. 인터넷에 찾아보니 지원하는 플러그인은 상당히 있는 편인것 같다. 잠깐 다른 것으로 바꿔보기도 했지만, 많은 사람들이 현재 적용되어있는 걸 사용하는 듯 하여, 다시 원래대로 돌려놓았다.
 
-<br>
-현재 몇가지 적용한 수정사항은
+현재 몇가지 적용한 수정사항은 다음과 같으며 이는 나중에 다시 정리해야할 필요가 있는 부분이다.
 
 + comment부분에서 스폰광고 지움  
 + "search" 탭을 생성 한 후 찾기기능 추가  
@@ -299,20 +298,27 @@ User pages는 master branch로만 적용해야하므로 간편하다. origin 원
 
 <br><br>
 
-###참고한 사이트
+### 참고한 사이트
 
 1. 마크다운 관련  
 <http://daringfireball.net/projects/markdown/syntax>  
 <http://sergeswin.com/1013>
-
 2. 검색기능 관련
 **Jekyll Search** <http://jekyll.tips/tutorials/search/>
-
 3. css 관련
 <http://www.w3schools.com/css/css_table.asp>
+4. Github Pages
+5. Jekyll & Jekyll Bootstrap
+<http://jekyllbootstrap.com/>
+<http://jekyllbootstrap.com/usage/jekyll-quick-start.html>
+<http://jekyllrb-ko.github.io/>
+6. Ruby, rake
+<http://rake.rubyforge.org/>
+7. 다음
+**하이라이터 적용하기** <http://hj-lee.github.io/2013/04/05/jekyll-blogging/>
+**포스팅 표시하기** <http://devblog.croquis.com/ko/2012/05/28/1-jekyll-blog-3.html>
 
 <br>
 <br><br>
 
 - - -
-<br>
