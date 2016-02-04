@@ -9,7 +9,7 @@ tags: [Github Pages, Jekyll, Jekyll Bootstrap]
 
 <br>
 
-### How to use Github Pages & Jekyll with Jekyll Bootstrap
+### 깃허브 페이지로 개인 블로그 만드는 방법(Github Pages & Jekyll Bootstrap)
 
 <br>
 
@@ -316,7 +316,8 @@ User pages는 master branch로만 적용해야하므로 간편하다. origin 원
 <http://rake.rubyforge.org/>
 7. 다음
 **하이라이터 적용하기** <http://hj-lee.github.io/2013/04/05/jekyll-blogging/>
-**포스팅 표시하기** <http://devblog.croquis.com/ko/2012/05/28/1-jekyll-blog-3.html>
+**시작페이지에 포스팅 표시하기** <http://devblog.croquis.com/ko/2012/05/28/1-jekyll-blog-3.html>
+
 
 <br>
 <br><br>
