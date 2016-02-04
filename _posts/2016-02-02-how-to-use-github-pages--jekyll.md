@@ -302,21 +302,21 @@ User pages는 master branch로만 적용해야하므로 간편하다. origin 원
 
 1. 마크다운 관련  
 <http://daringfireball.net/projects/markdown/syntax>  
-<http://sergeswin.com/1013>
-2. 검색기능 관련
-**Jekyll Search** <http://jekyll.tips/tutorials/search/>
-3. css 관련
-<http://www.w3schools.com/css/css_table.asp>
-4. Github Pages
-5. Jekyll & Jekyll Bootstrap
-<http://jekyllbootstrap.com/>
-<http://jekyllbootstrap.com/usage/jekyll-quick-start.html>
-<http://jekyllrb-ko.github.io/>
-6. Ruby, rake
-<http://rake.rubyforge.org/>
-7. 다음
-**하이라이터 적용하기** <http://hj-lee.github.io/2013/04/05/jekyll-blogging/>
-**시작페이지에 포스팅 수 표시** <http://devblog.croquis.com/ko/2012/05/28/1-jekyll-blog-3.html>
+<http://sergeswin.com/1013>  
+2. 검색기능 관련  
+**Jekyll Search** <http://jekyll.tips/tutorials/search/>  
+3. css 관련  
+<http://www.w3schools.com/css/css_table.asp>  
+4. Github Pages  
+5. Jekyll & Jekyll Bootstrap  
+<http://jekyllbootstrap.com/>  
+<http://jekyllbootstrap.com/usage/jekyll-quick-start.html>  
+<http://jekyllrb-ko.github.io/>  
+6. Ruby, rake  
+<http://rake.rubyforge.org/>  
+7. 다음  
+**하이라이터 적용하기** <http://hj-lee.github.io/2013/04/05/jekyll-blogging/>  
+**시작페이지에 포스팅 수 표시** <http://devblog.croquis.com/ko/2012/05/28/1-jekyll-blog-3.html>  
 
 
 <br>
