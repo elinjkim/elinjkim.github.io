@@ -242,6 +242,15 @@ Jekyll Bootstrap에서 지원하는 기능 중 하나인 thema를 적용시키�
 
 <br>
 
+Jekyll Bootstrap을 설치하면 이전보다 더 많은 항목들이 생기지만 기본 구조는 같다.
+
+![image-500](http://cfile26.uf.tistory.com/original/24090F3856B313C913DD81)
+
+그리고 테마를 설치하게되면 *../themes/theme_name*의 경로로 항목들이 추가되며 수정도 여기서 하면된다.
+
+![image-500](http://cfile9.uf.tistory.com/original/2403A53856B313CA1863A6)
+
+
 기존에 있던 샘플 포스트를 지우도록 한다. 그런 후 `$ rake post title=""` 명령을 사용하여 포스트 문서를 생성한다.  
 **rake명령어**를 사용하여 포스트를 생성하면 자동으로 **/_posts**에 설정한 title과 현재의 날짜를 기반으로 markdown 문서가 생성된다. 명령어에 `date="2016-02-02"`옵션으로 날짜를 지정할 수 있다. 
 
