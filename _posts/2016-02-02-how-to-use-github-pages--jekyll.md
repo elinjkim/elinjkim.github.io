@@ -309,27 +309,27 @@ User pages는 master branch로만 적용해야하므로 간편하다. origin 원
 
 ### 참고한 사이트
 
-+ 마크다운 관련  
-<http://daringfireball.net/projects/markdown/syntax>
-<http://sergeswin.com/1013>  
++ 마크다운 관련
+아주많음 <http://daringfireball.net/projects/markdown/syntax>
+많음 <http://sergeswin.com/1013>  
 
-+ 검색기능 관련  
++ 검색기능 관련
 Jekyll Search <http://jekyll.tips/tutorials/search/>  
 
-+ css 관련  
++ css 관련
 <http://www.w3schools.com/css/css_table.asp>  
 
-+ Github Pages  
++ Github Pages
 
-+ Jekyll & Jekyll Bootstrap  
-<http://jekyllbootstrap.com/>  
-<http://jekyllbootstrap.com/usage/jekyll-quick-start.html>  
-<http://jekyllrb-ko.github.io/>  
++ Jekyll & Jekyll Bootstrap
+Jekyll Bootstrap 메인 <http://jekyllbootstrap.com/>  
+Jekyll Bootstrap 퀵스타트 <http://jekyllbootstrap.com/usage/jekyll-quick-start.html>  
+Jekyll 한국어 사이트 <http://jekyllrb-ko.github.io/>  
 
-+ Ruby, rake  
++ Ruby, rake
 <http://rake.rubyforge.org/>  
 
-+ 다음  
++ 다음
 하이라이터 적용하기 <http://hj-lee.github.io/2013/04/05/jekyll-blogging/>  
 시작페이지에 포스팅 수 표시 <http://devblog.croquis.com/ko/2012/05/28/1-jekyll-blog-3.html>  
 
