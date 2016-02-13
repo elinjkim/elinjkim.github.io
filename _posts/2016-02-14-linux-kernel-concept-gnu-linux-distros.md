@@ -83,7 +83,7 @@ Linux Distros는 Linux Kernel, GNU Software 및 각종 free software로 만들�
 둘다 구글에 찾아보면 대단한 어록들이 존재하고 또 재미있게 찾아 읽었다. 
 
 그 중 기억에 남는 몇가지는,  
-리누스 토발즈가 데이터구조에 대한 중요성을 굉장히 강조한다는 점(참고. [리누스 토발즈가 말하는 좋은 프로그래머](http://yisangwook.tumblr.com/post/82653891224/linus-torvalds-good-programmer))과 리처드 스톨먼이 아직 싱글같다는 점이다(ㅋㅋㅋㅋ).  
+리누스 토발즈가 데이터구조에 대한 중요성을 굉장히 강조한다는 점(참고. [리누스 토발즈가 말하는 좋은 프로그래머](http://yisangwook.tumblr.com/post/82653891224/linus-torvalds-good-programmer))과 리처드 스톨먼이 아직 싱글같다는 점이다(아마도?ㅋㅋㅋㅋ).  
 
 
 <br><br>
