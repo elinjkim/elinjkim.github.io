@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux Kernel Concept, GNU Linux Distros"
-description: "linux kernel concept intro"
+description: ""
 category: linuxkernel
 tags: [GNU, Linux, Linux Kernel, Linux Distros, Linux Distrobutions]
 ---
