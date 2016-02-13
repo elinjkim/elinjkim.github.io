@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Kernel Concept, GNU Linux Distros"
 description: "linux kernel concept intro"
-category: linux/kernel
+category: linuxkernel
 tags: [GNU, Linux, Linux Kernel, Linux Distros, Linux Distrobutions]
 ---
 {% include JB/setup %}
