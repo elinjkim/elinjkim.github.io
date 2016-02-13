@@ -280,9 +280,10 @@ category나 tag는 자동으로 분류되어 적용된다.
 
 	$ git init  
 	$ git add .  
-	$ git commit -m "*commit messge*"  
-	$ git remote set-url origin https://github.com/elinjkim/elinjkim.github.io.git  
-  	$ git push origin master  
+	$ git commit -m "commit messge"  
+	$ git remote set-url origin https://github.com/elinjkim/elinjkim.github.io.git
+	 
+	$ git push origin master  
   	To https://github.com/elinjkim/elinjkim.github.io.git
 	* [new branch]      master -> master
 
