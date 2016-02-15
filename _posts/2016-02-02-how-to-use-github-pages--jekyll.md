@@ -16,6 +16,8 @@ tags: [Github Pages, Jekyll, Jekyll Bootstrap]
 ### Before,
 
 기존에 사용하던 블로그 이외에 **"Github Pages"**를 이용한 블로그를 사용해보기로 결심했다.  
+참고로 안웹개발자의 입장에서 기술되었다.
+
 
 <br><br>
 
